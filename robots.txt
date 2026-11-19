@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://altosaurus.github.io/alto/sitemap.xml
